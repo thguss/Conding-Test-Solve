@@ -1,5 +1,5 @@
-class Solution {
-  boolean solution7(String s) {
+class solution7 {
+  boolean solution(String s) {
       
       int p = 0;
       int y = 0;
