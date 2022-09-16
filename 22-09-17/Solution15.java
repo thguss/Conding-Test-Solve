@@ -2,7 +2,7 @@
 
 class Solution {
     public int solution(int[][] sizes) {
-        int clen = sizes.length; int rlen = sizes.length;
+        int clen = sizes.length;
         
         for (int i = 0; i < clen; i++) {
             if (sizes[i][0] > sizes[i][1]) {
