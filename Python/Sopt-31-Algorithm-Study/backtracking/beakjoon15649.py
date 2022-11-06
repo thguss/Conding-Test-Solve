@@ -10,3 +10,4 @@ for p in perm:
   for i in p:
     print(i, end=" ")
   print()
+  
