@@ -15,3 +15,10 @@
 
 ### IDEA
 노가다 성이 짙고, 개인적으로 단순하면서도 문제에 적용하기 어렵다고 생각된다.
+
+<br/>
+
+### 문제 인증
+
+- 2116 주사위 쌓기
+<img width="1075" alt="image" src="https://user-images.githubusercontent.com/55437339/201059390-f5cf96b6-168f-4809-b564-0e5dcbb3626c.png">
